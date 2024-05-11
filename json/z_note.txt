@@ -1,0 +1,50 @@
+json -- JavaScript Object Notaion
+    a standard
+    text based form
+    human readable
+    lightweight
+    language independent
+    to store and exchange data between client & server
+
+file extention --> .json
+official media type --application/json
+
+
+obj--
+
+{
+    "key" : "value" // key have to inside double qoute
+
+    ......
+},
+obj are separated by comma
+{
+    "key" : "value"
+
+    ......
+}
+
+array--
+arra [value1, value2, .....]
+
+
+in json file we can not write comment
+
+1. intro
+2. create
+3. validity --- https://codebeautify.org/jsonviewer
+4. JSONPath -- JSONPath is a query language for JSON. ------>https://jsonpathfinder.com
+               JSONPath is commonly used in APIs and tools to extract specific
+               data from JSON responses. ---> access, modify, delete, convert 
+               It's supported by many programming languages and frameworks,
+               including JavaScript, Python, Java, and more.
+5. Schema
+
+
+----> browser extention to represent json data --> jsonpath finder
+
+Schema -- describes a standard format
+          validating client-submitted data
+
+          json data to schema converter website - https://www.liquid-technologies.com/online-json-to-schema-converter
+          json schema validator - https://www.jsonschemavalidator.net/

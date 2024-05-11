@@ -1,0 +1,15 @@
+{
+  "friends": [
+    {
+      "name": "Fatema",
+      "age": 23,
+      "cgpa": 3.8
+    },
+
+    {
+      "name": "Ananna",
+      "age": 24,
+      "cgpa": 3.7
+    }
+  ]
+}

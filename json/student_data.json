@@ -1,0 +1,58 @@
+{
+  "students": [
+    {
+      "firstname": "Mina",
+      "lastname": "Khatun",
+      "age": 23,
+      "cgpa": 3.55,
+      "isResistered": true,
+      "language": ["Bengali", "English"],
+      "friends": [
+        {
+          "name": "Fatema",
+          "age": 23,
+          "cgpa": 3.8
+        },
+        {
+          "name": "Ananna",
+          "age": 24,
+          "cgpa": 3.7
+        }
+      ]
+    },
+    {
+      "firstname": "Fire",
+      "lastname": "Fly",
+      "age": 26,
+      "cgpa": 3.95,
+      "isResistered": true,
+      "language": ["Bengali", "English", "Japanes"],
+      "friends": [
+        {
+          "name": "Fatema",
+          "age": 23,
+          "cgpa": 3.8
+        },
+        {
+          "name": "Ananna",
+          "age": 24,
+          "cgpa": 3.7
+        }
+      ]
+    }
+  ],
+
+  "friends": [
+    {
+      "name": "Fatema",
+      "age": 23,
+      "cgpa": 3.8
+    },
+
+    {
+      "name": "Ananna",
+      "age": 24,
+      "cgpa": 3.7
+    }
+  ]
+}
